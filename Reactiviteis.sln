@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Application", "Application\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{4C076E79-56AC-4708-8564-8C4707C03704}"
 EndProject
-Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "client-app", "client-app\client-app.esproj", "{BC8EDA25-A025-4FAD-B223-705C1B47DCFF}"
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "client-app", "client-app\client-app.esproj", "{1BD95439-D6A4-430C-BAD3-38AE9E917559}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,12 +35,12 @@ Global
 		{4C076E79-56AC-4708-8564-8C4707C03704}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C076E79-56AC-4708-8564-8C4707C03704}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C076E79-56AC-4708-8564-8C4707C03704}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BC8EDA25-A025-4FAD-B223-705C1B47DCFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BC8EDA25-A025-4FAD-B223-705C1B47DCFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BC8EDA25-A025-4FAD-B223-705C1B47DCFF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{BC8EDA25-A025-4FAD-B223-705C1B47DCFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BC8EDA25-A025-4FAD-B223-705C1B47DCFF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{BC8EDA25-A025-4FAD-B223-705C1B47DCFF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{1BD95439-D6A4-430C-BAD3-38AE9E917559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD95439-D6A4-430C-BAD3-38AE9E917559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD95439-D6A4-430C-BAD3-38AE9E917559}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1BD95439-D6A4-430C-BAD3-38AE9E917559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD95439-D6A4-430C-BAD3-38AE9E917559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD95439-D6A4-430C-BAD3-38AE9E917559}.Release|Any CPU.Deploy.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

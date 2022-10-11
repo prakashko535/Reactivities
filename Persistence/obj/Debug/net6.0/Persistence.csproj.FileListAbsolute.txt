@@ -15,3 +15,20 @@ C:\Users\prakashko\Desktop\Dummy Assignment Project\Reactiviteis\Persistence\obj
 C:\Users\prakashko\Desktop\Dummy Assignment Project\Reactiviteis\Persistence\obj\Debug\net6.0\Persistence.pdb
 C:\Users\prakashko\Desktop\Dummy Assignment Project\Reactiviteis\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
 C:\Users\prakashko\Desktop\Dummy Assignment Project\Reactiviteis\Persistence\obj\Debug\net6.0\ref\Persistence.dll
+C:\Users\prakashko\Desktop\Reactivities\Persistence\bin\Debug\net6.0\Persistence.deps.json
+C:\Users\prakashko\Desktop\Reactivities\Persistence\bin\Debug\net6.0\Persistence.runtimeconfig.json
+C:\Users\prakashko\Desktop\Reactivities\Persistence\bin\Debug\net6.0\Persistence.dll
+C:\Users\prakashko\Desktop\Reactivities\Persistence\bin\Debug\net6.0\Persistence.pdb
+C:\Users\prakashko\Desktop\Reactivities\Persistence\bin\Debug\net6.0\Domain.dll
+C:\Users\prakashko\Desktop\Reactivities\Persistence\bin\Debug\net6.0\Domain.pdb
+C:\Users\prakashko\Desktop\Reactivities\Persistence\obj\Debug\net6.0\Persistence.csproj.AssemblyReference.cache
+C:\Users\prakashko\Desktop\Reactivities\Persistence\obj\Debug\net6.0\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prakashko\Desktop\Reactivities\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfoInputs.cache
+C:\Users\prakashko\Desktop\Reactivities\Persistence\obj\Debug\net6.0\Persistence.AssemblyInfo.cs
+C:\Users\prakashko\Desktop\Reactivities\Persistence\obj\Debug\net6.0\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\prakashko\Desktop\Reactivities\Persistence\obj\Debug\net6.0\Persistence.csproj.CopyComplete
+C:\Users\prakashko\Desktop\Reactivities\Persistence\obj\Debug\net6.0\Persistence.dll
+C:\Users\prakashko\Desktop\Reactivities\Persistence\obj\Debug\net6.0\refint\Persistence.dll
+C:\Users\prakashko\Desktop\Reactivities\Persistence\obj\Debug\net6.0\Persistence.pdb
+C:\Users\prakashko\Desktop\Reactivities\Persistence\obj\Debug\net6.0\Persistence.genruntimeconfig.cache
+C:\Users\prakashko\Desktop\Reactivities\Persistence\obj\Debug\net6.0\ref\Persistence.dll
