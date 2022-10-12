@@ -1,14 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "idRfmEuxpYYdr85Npqr1NPfDRXHxxLBNXfZKQ3urkVUP6wFhp1S6sNkZw7p1cufH0zVvAncrlMWjE6ykvWvgkw==",
+  "dgSpecHash": "iZz5d2we3OzyID+vOv2LFDr1mPqAobvRJWNYWFreIzwFKQLQoI5gIQeM0zoS336gD+mzcOtKh6yJ07HkzXFHzw==",
   "success": true,
   "projectFilePath": "C:\\Users\\prakashko\\Desktop\\Reactivities\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\prakashko\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\prakashko\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
     "C:\\Users\\prakashko\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\prakashko\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
     "C:\\Users\\prakashko\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
     "C:\\Users\\prakashko\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
-    "C:\\Users\\prakashko\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\prakashko\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\prakashko\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\prakashko\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\prakashko\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.9\\microsoft.entityframeworkcore.6.0.9.nupkg.sha512",
