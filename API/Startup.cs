@@ -11,9 +11,10 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
-
 using Microsoft.EntityFrameworkCore;
 using Persistence;
+using MediatR;
+using Application.Activities;
 
 namespace API
 {
@@ -36,6 +37,8 @@ namespace API
             {
                 opt.UseSqlServer(_config.GetConnectionString("DefaultConnection"));
             });
+
+            services.AddMediatR(typeof(List.Handler).Assembly);
         }
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
