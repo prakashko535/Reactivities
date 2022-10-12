@@ -1,5 +1,6 @@
 ﻿using Application.Activities;
 using Domain;
+using MediatR;
 using Microsoft.AspNetCore.Mvc;
 using Persistence;
 
@@ -24,7 +25,8 @@ namespace API.Controllers
         [HttpPost]
         public async Task<IActionResult> CreateActivity(Activity activity) // returning nothing thats why we used <IActionResult>
         {
-            return Ok(await Mediator.Send(new Create.Command { Activity = activity }));
+            return Ok(await Mediator.Send(new Create.Command { Activity = activity })); //Activity - variable for Activity class which is created in Create class inside Activites folder, 
+                                                                                        //activity - is parameter for Activity domain class
         }
     }
 }
